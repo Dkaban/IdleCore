@@ -1,6 +1,8 @@
 # IdleCore
-This is a repo to test out idle game functionality.
+
+Building the core for an Idle game using a RESTful and a CI process.
 
 Technologies Used:
+- Unity, C#
 - https://designer.mocky.io/ : To test REST API Integration
 - https://gitlab.com/ : To test CI Development
