@@ -1,6 +1,6 @@
 # IdleCore
 
-Building the core for an Idle game using a RESTful and a CI process.
+Building the core for an Idle game using RESTful and a CI process.
 
 Technologies Used:
 - Unity, C#
