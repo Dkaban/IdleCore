@@ -8,4 +8,4 @@ Technologies Used:
 - https://gitlab.com/ : To test CI Development
 
 GitLab CI In Action (Super Simple Hello World Test):
-![GitLab CI Yml](https://github.com/Dkaban/IdleCore/blob/main/GitLab-CI.jpg)
+![GitLab CI Yml](https://github.com/Dkaban/IdleCore/blob/main/GitLab-CI-V2.jpg)
